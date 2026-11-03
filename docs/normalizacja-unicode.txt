@@ -1,0 +1,2 @@
+NFC (1 punkt kodowy): é
+NFD (2 punkty kodowe): é
